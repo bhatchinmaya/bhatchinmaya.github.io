@@ -16,9 +16,9 @@ author: Fábio Madeira
 baseurl: /vitae/
 title: "Chinmaya Bhat's Resume"
 name: Chinmaya Bhat
-email: chinmaybhat94@gmail.com
+#email: chinmaybhat94@gmail.com
 email_full: mailto:chinmaybhat94@gmail.com
-website: https://bhatchinmaya.github.io/
+#website: https://bhatchinmaya.github.io/
 website_full: https://www.linkedin.com/in/chinmaya-bhat-9a2856a9/
 github: trending
 #twitter: asdf
