@@ -15,21 +15,21 @@ author: Fábio Madeira
 # for a normal use at the base of the server change it to "/"
 baseurl: /vitae/
 title: "Chinmaya Bhat's Resume"
-name: Chinmaya Bhat
-#email: chinmaybhat94@gmail.com
+name: Chinmaya Krishnamurhthy Bhat
+email: chinmaybhat94@gmail.com
 email_full: mailto:chinmaybhat94@gmail.com
-#website: https://bhatchinmaya.github.io/
+website: https://bhatchinmaya.github.io/
 website_full: https://www.linkedin.com/in/chinmaya-bhat-9a2856a9/
-github: trending
+#LinkedIn: trending
 #twitter: asdf
 # tel: +44 0000 000000
 # tel_full: tel:+440000000000
 # google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
-address:
-  #street: 44 Perth Street
-  #postcode: EH3 5BL
+<!-- address:
+  street: 44 Perth Street
+  postcode: EH3 5BL
   city: Duisburg
-  country: Germany
+  country: Germany -->
 google_analytics: UA-69300817-1
 
 # needed for travis-ci build
